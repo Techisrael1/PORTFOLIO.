@@ -123,6 +123,9 @@
         margin-top: 20px;
     }
 
+    .download {
+        font-size: 12px;
+    }
 
     #contact {
         display: block;

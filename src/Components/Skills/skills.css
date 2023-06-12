@@ -41,7 +41,7 @@
 
     .skills-card img {
         width: 100px;
-        overflow-x: visible !important;
-
+        overflow-x: hidden !important;
+        overflow-y: hidden !important;
     }
 }

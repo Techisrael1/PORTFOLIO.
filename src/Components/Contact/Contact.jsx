@@ -31,7 +31,7 @@ const Contact = () => {
 					msg.innerHTML = "";
 					alert("Message Sent successfully."); // Show alert after sending message
 					form.reset(); // Clear input fields
-				}, 2000);
+				}, 1000);
 			})
 			.catch((error) => {
 				console.error("Error!", error.message);
@@ -72,7 +72,9 @@ const Contact = () => {
 					</a>
 				</div>
 				<a href={cv} download>
-					<button type="download">Download Cv</button>
+					<button className="download" type="download">
+						Download Cv
+					</button>
 				</a>
 			</div>
 			<div className="right-col">

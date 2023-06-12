@@ -1,6 +1,4 @@
 import React from "react";
-
-import "./app.css";
 import Navbar from "./Components/Navbar/Navbar";
 import Skills from "./Components/Skills/Skills";
 import Services from "./Components/Services/Services";

@@ -16,7 +16,7 @@ const Portfolio = () => {
 						<div className="layer">
 							<h3>Data Management System</h3>
 							<p>Data Management System </p>
-							<a href="https://github.com/Techisrael1/E-REGISTER-APP.git">
+							<a href="https://e-register-app.vercel.app/">
 								<FaExternalLinkAlt />
 							</a>
 						</div>

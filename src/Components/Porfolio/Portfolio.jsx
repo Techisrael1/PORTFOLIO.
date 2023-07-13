@@ -10,26 +10,26 @@ const Portfolio = () => {
 				<div className="work-list">
 					<div className="work">
 						<img
-							src="https://images.pexels.com/photos/2526128/pexels-photo-2526128.jpeg?auto=compress&cs=tinysrgb&w=600"
+							src="https://plus.unsplash.com/premium_photo-1685086785013-acc71c40e5fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGRhdGElMjBzY2llbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
 							alt=""
 						/>
 						<div className="layer">
-							<h3>CAR WEBSITE</h3>
-							<p>A car display website</p>
-							<a href="https://my-autopage.vercel.app/index.html">
+							<h3>Data Management System</h3>
+							<p>Data Management System </p>
+							<a href="https://github.com/Techisrael1/E-REGISTER-APP.git">
 								<FaExternalLinkAlt />
 							</a>
 						</div>
 					</div>
 					<div className="work">
 						<img
-							src="https://images.pexels.com/photos/4021801/pexels-photo-4021801.jpeg?auto=compress&cs=tinysrgb&w=600"
+							src="https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=600"
 							alt=""
 						/>
 						<div className="layer">
-							<h3>HEALTH WEBSITE</h3>
-							<p>A Doctor to patient website</p>
-							<a href="https://github.com/Techisrael1/doc-plannner-page.git">
+							<h3>Restaurant Application</h3>
+							<p>Food Ordering application</p>
+							<a href="https://github.com/Techisrael1/Restaurant-Application-.git">
 								<FaExternalLinkAlt />
 							</a>
 						</div>

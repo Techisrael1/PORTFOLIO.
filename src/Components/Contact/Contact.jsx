@@ -37,7 +37,7 @@ const Contact = () => {
 				console.error("Error!", error.message);
 				alert("Message sent successfully!"); // Show alert for error
 				form.reset(); // Clear input fields
-			});
+			}, 1000);
 	};
 
 	return (
